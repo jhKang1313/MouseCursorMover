@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Aug 23 12:24:56 KST 2018
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=system.monu.cursor.mover_fat.jar
+manifest.mergeall=true
+manifest.mainclass=system.mouse.cursor.system.monu.cursor.mover.CursorMover
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
